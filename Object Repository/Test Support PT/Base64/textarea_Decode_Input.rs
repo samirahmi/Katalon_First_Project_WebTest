@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Decode_Input</name>
+   <tag></tag>
+   <elementGuidId>3fea1d3a-c7b9-4fd7-b187-4cece54ad784</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.mt-2.font-mono.text-sm.border.w-full.h-64.p-4.rounded-lg.resize.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;enter text...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>30502a1c-0c91-4963-aa5c-7893b23a166f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>enter text...</value>
+      <webElementGuid>d4535fbc-eed8-43b2-8208-88e923e9d89c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-2 font-mono text-sm border w-full h-64 p-4 rounded-lg resize ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>82ae7d13-f76e-4105-9142-c0b9a0e1a96f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex-1 ml-72&quot;]/main[@class=&quot;pt-10&quot;]/app-decode-base64[1]/main[@class=&quot;pl-8&quot;]/div[@class=&quot;flex justify-center mt-4&quot;]/div[@class=&quot;flex-col w-2/3&quot;]/div[@class=&quot;flex flex-col justify-center&quot;]/textarea[@class=&quot;mt-2 font-mono text-sm border w-full h-64 p-4 rounded-lg resize ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>568ae724-f3de-42ef-a53d-ced70dce1c64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>e2f4716f-6ef9-467d-b212-01e5dae399b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'enter text...']</value>
+      <webElementGuid>46d751fc-70ec-483d-8eb5-519ee317c2f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

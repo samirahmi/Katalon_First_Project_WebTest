@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Encode</name>
+   <tag></tag>
+   <elementGuidId>4d08ef01-ea70-4d70-a2be-74628dec6ecd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='encode each line'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Encode&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1073c524-1e22-4c21-9f6d-e81532146623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm bg-blue-500 hover:bg-blue-700 text-white font-bold py-3 w-48 rounded-lg focus:outline-none focus:shadow-outline mt-4</value>
+      <webElementGuid>6b9095f9-22e6-4aa8-9147-8c0a81376779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Encode</value>
+      <webElementGuid>a199a82e-ce7f-4b36-ac6b-6e3a0657dc33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex-1 ml-72&quot;]/main[@class=&quot;pt-10&quot;]/app-encode-base64[1]/main[@class=&quot;pl-8&quot;]/div[@class=&quot;flex justify-center mt-4&quot;]/div[@class=&quot;flex-col w-2/3&quot;]/div[@class=&quot;flex flex-col justify-center items-center mt-4&quot;]/button[@class=&quot;text-sm bg-blue-500 hover:bg-blue-700 text-white font-bold py-3 w-48 rounded-lg focus:outline-none focus:shadow-outline mt-4&quot;]</value>
+      <webElementGuid>cc560fa6-a2f6-433c-b69d-1f6bbb99be59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='encode each line'])[1]/following::button[1]</value>
+      <webElementGuid>06f81eb0-1c2c-4725-b2d2-8988140b7a43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JSON to String'])[1]/following::button[1]</value>
+      <webElementGuid>73f58b83-441b-4fcb-a981-28addae32724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>dd013d00-351e-4816-b0d1-c01e04f709f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Encode' or . = 'Encode')]</value>
+      <webElementGuid>bdc06f54-076c-4f78-aaa8-4ef4b269efdc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
