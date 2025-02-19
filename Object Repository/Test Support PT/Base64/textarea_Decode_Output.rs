@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>textarea_Decode_mt-2 text-sm font-mono border w-full p-4 rounded-lg h-64 resize</name>
+   <name>textarea_Decode_Output</name>
    <tag></tag>
    <elementGuidId>9cb94630-8ce9-44fb-a9fe-5648682186db</elementGuidId>
    <selectorCollection>

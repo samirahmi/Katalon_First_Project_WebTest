@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Encode by File</name>
+   <name>a_Encode_by_File</name>
    <tag></tag>
    <elementGuidId>2fa6f7c8-a442-4efc-a314-e9fe4d3d5411</elementGuidId>
    <selectorCollection>
