@@ -29,20 +29,7 @@ WebUI.delay(GlobalVariable.Delay)
 
 WebUI.click(findTestObject('Test Support PT/Base64/textarea_Encode_Input'))
 
-TestData inputText = findTestData('Data Files/InputText')
-
-String dataInput
-
-for (int i = 1; i <= inputText.getRowNumbers(); i++) {
-    //Get data form specific columns
-    dataInput = inputText.getValue('InputData', i)
-
-    println('input data: ' + dataInput)
-
-    WebUI.setText(findTestObject('Test Support PT/Base64/textarea_Encode_Input'), dataInput)
-
-    WebUI.delay(GlobalVariable.Delay)
-}
+WebUI.setText(findTestObject('Test Support PT/Base64/textarea_Encode_Input'), 'laalalall')
 
 WebUI.click(findTestObject('Test Support PT/Base64/button_Encode'))
 
@@ -64,7 +51,7 @@ WebUI.setText(findTestObject('Test Support PT/Base64/textarea_Decode_Input'), De
 
 WebUI.click(findTestObject('Test Support PT/Base64/button_Decode'))
 
-dataInput = WebUI.verifyElementPresent(findTestObject('Test Support PT/Base64/textarea_Decode_Output'), 3)
+laalalall = WebUI.verifyElementVisible(findTestObject('Test Support PT/Base64/textarea_Decode_Output'))
 
 WebUI.delay(GlobalVariable.Delay)
 
